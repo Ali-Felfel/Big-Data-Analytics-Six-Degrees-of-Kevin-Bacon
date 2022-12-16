@@ -1,5 +1,5 @@
 # Big-Data-Analytics-Six-Degrees-of-Kevin-Bacon
-Six Degrees of Kevin Bacon
+Six Degrees of Kevin Bacon : Docker, Spark, PySpark, DataBricks, paired RDDs, Python
 
 Six Degrees of Kevin Bacon is a game based on the "six degrees of separation"
 concept, which posits that any two people on Earth are six or fewer acquaintance links apart. Movie
